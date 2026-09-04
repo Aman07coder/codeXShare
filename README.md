@@ -2,30 +2,25 @@
 
 A real-time collaborative code editor that allows multiple users to create or join a room and edit code together in real time.
 
-## Features
+## 🚀 Live Demo & Preview
+- **Live App:** [Insert your deployed link here e.g., Render/Vercel URL]
+- **Preview:** *(Add a GIF or Screenshot showing real-time code sync)*
 
-- Create and join rooms using unique Room IDs
-- Real-time code synchronization using Socket.IO
-- Live connected-user list
-- Copy Room ID for easy sharing
-- CodeMirror-based code editor
-- Real-time join and leave notifications
+## ✨ Features
+- **Unique Room IDs:** Create new rooms or join existing ones.
+- **Real-Time Code Sync:** Powered by Socket.IO for instant updates across users.
+- **Live User Tracking:** See who is currently connected in the room.
+- **Notifications:** Real-time join/leave alerts using React Hot Toast.
+- **Rich Editor:** CodeMirror integration with syntax highlighting.
 
-## Tech Stack
+## 🛠️ Tech Stack
+- **Frontend:** React.js, CodeMirror, CSS
+- **Backend:** Node.js, Express.js, Socket.IO
+- **Utilities:** UUID, React Hot Toast, React Avatar
 
-React.js, Node.js, Express.js, Socket.IO, CodeMirror, CSS
+## 💻 Run Locally
 
-## How It Works
-
-1. Create a new room or enter an existing Room ID
-2. Enter your username
-3. Join the shared code editor
-4. Collaborate and see code changes in real time
-
-## Run Locally
-
-### Frontend
-
+### 1. Clone the repository
 ```bash
-npm install
-npm run start:front
+git clone [https://github.com/Aman07coder/codeXShare.git](https://github.com/Aman07coder/codeXShare.git)
+cd codeXShare
