@@ -2,10 +2,6 @@
 
 A real-time collaborative code editor that allows multiple users to create or join a room and edit code together in real time.
 
-## 🚀 Live Demo & Preview
-- **Live App:** [Insert your deployed link here e.g., Render/Vercel URL]
-- **Preview:** *(Add a GIF or Screenshot showing real-time code sync)*
-
 ## ✨ Features
 - **Unique Room IDs:** Create new rooms or join existing ones.
 - **Real-Time Code Sync:** Powered by Socket.IO for instant updates across users.
